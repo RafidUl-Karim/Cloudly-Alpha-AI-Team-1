@@ -48,5 +48,5 @@ Human interaction is an excellent way to **clarify doubts, gain real-world insig
 - **Engage with the Right People:** Approach teachers, mentors, seniors, or community experts for deeper understanding.
 - **Participate Actively:** Join study groups, forums, or communities where you can both learn and contribute.
 
-> Approaching people with background knowledge and a clear question shows initiative, respect for their time, and results in more meaningful discussions.
+> Approaching people with background knowledge and a clear question shows initiative, respect for their time, and results in more meaningful discussions.\
 > Example: Instead of asking "What is machine learning?", ask "I understand that ML involves training models using data—can you explain how overfitting happens during this process?"

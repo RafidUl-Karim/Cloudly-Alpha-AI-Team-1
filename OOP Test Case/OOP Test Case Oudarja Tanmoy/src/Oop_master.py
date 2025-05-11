@@ -179,24 +179,6 @@ d = Dog_("Charlie", "Labrador")
 
 
 '''Person defined in Encapsulation'''
-# class Person:
-#     def __init__(self, name, age, gender):
-#         self.__name = name  # Private *Property*
-#         self._age = age     # Protected *Property*
-#         self.gender = gender # Public *Property*
-
-#     # Getter *Method*
-#     def get_name(self):
-#         return self.__name
-
-#     # Setter *Method*
-#     def set_name(self, new_name):
-#         if isinstance(new_name, str):
-#             self.__name = new_name
-
-#     # Public *Method*
-#     def display_info(self):
-#         print(f"Name: {self.__name}, Age: {self._age}")
 
 #Inherited from Person class 
 class Student_(Person):
